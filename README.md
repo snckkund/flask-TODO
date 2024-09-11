@@ -1,16 +1,23 @@
-# Todo ~ Flask
+# TODO App ~ Flask
 
-## A basic TODO app using CRUD operations
+## A simple TODO application that demonstrates CRUD operations using Flask, SQLAlchemy, and SQLite.
 
-### Status:
-> [![Netlify_Status](https://img.shields.io/badge/Netlify-grey)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/chandrakant06/sn-flask-todo)
 
-### Languages Used:
+## 🚀 Quick Start
+
+### Pull the Docker Image:
+```bash
+docker pull chandrakant06/sn-flask-todo
+```
+
+## 🛠️ Tech Stack
+### Languages:
 > * Html
 > * Css
 > * Python
 
-### FrameWorks, Libs and Backend:
-> * Flask
-> * SQLAlchemy
-> * Sqlite (db)
+### Frameworks & Libraries::
+> * Flask (Web Framework)
+> * SQLAlchemy (ORM)
+> * SQLite (Database)
